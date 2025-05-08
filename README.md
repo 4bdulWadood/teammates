@@ -1,1 +1,2 @@
-https://docs.google.com/document/d/1aNy_i6SKg0Y539pv43yW5ncnzrzrbVKgV7zm_ZqIVyU/edit?usp=sharing
+
+[COE891 - Final Project Report - Group 2 (1).pdf](https://github.com/user-attachments/files/20107485/COE891.-.Final.Project.Report.-.Group.2.1.pdf)
