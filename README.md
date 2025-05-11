@@ -1,10 +1,12 @@
 
 [COE891 - Final Project Report - Group 2 (1).pdf](https://github.com/user-attachments/files/20107485/COE891.-.Final.Project.Report.-.Group.2.1.pdf)
+[COE891 - Test Plan Submission - Group 2 (1).pdf](https://github.com/user-attachments/files/20151497/COE891.-.Test.Plan.Submission.-.Group.2.1.pdf)
 
 # TEAMMATES Testing Project - Group 2
 
 **Course:** COE891 - Software Testing and QA (Winter 2025)  
-**Instructor:** Dr. Reza Samavi  
+**Instructor:** Dr. Reza Samavi  [Uploading COE891 - Test Plan Submission - Group 2 (1).pdf…]()
+
 **Team Members:** 
 - Poojitha Bejugama
 - Sid Muntaha  
